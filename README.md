@@ -12,5 +12,5 @@
 
 
 
-我热爱编程，每天都会提交新的 Commit，并始终保持进步，如果您对我感兴趣，请与我 [联系](wtklbm@gmail.com)。
+我热爱编程，每天都会提交新的 Commit，并始终保持进步，如果您对我感兴趣，请与我 [联系](mailto:wtklbm@gmail.com)。
 
